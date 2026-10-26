@@ -1,0 +1,26 @@
+# CFD Broker Bonus Ratgeber
+
+> Unabhängiger Ratgeber zu CFD Broker Boni für deutsche Anleger (Stand 2026).
+
+Dieser Ratgeber erklärt, was CFD Broker Boni sind, welche Arten es gibt,
+was in Deutschland nach ESMA (seit 01.08.2018) und BaFin (seit 2017) erlaubt ist,
+und wie Anleger seriöse von unseriösen Angeboten unterscheiden können.
+
+## Seiten
+
+- [Hauptseite: CFD Broker Bonus Ratgeber](https://cfd-bonus-ratgeber.netlify.app/) — [index.md](https://cfd-bonus-ratgeber.netlify.app/index.md)
+- [Was ist ein CFD Broker Bonus?](https://cfd-bonus-ratgeber.netlify.app/was-ist-ein-cfd-broker-bonus)
+- [Welche Arten von CFD Broker Boni gibt es?](https://cfd-bonus-ratgeber.netlify.app/arten-von-cfd-broker-boni)
+- [Sind CFD Broker Boni in Deutschland legal?](https://cfd-bonus-ratgeber.netlify.app/cfd-broker-bonus-legal-reguliert)
+- [Welche CFD Broker bieten aktuell einen Bonus an?](https://cfd-bonus-ratgeber.netlify.app/cfd-broker-bonus-vergleich)
+- [CFD Bonus vs. niedrigere Spreads](https://cfd-bonus-ratgeber.netlify.app/cfd-bonus-vs-niedrigere-spreads)
+- [CFD Broker Bonus einlösen](https://cfd-bonus-ratgeber.netlify.app/cfd-broker-bonus-einloesen)
+- [Bonusbedingungen & Umsatzanforderungen](https://cfd-bonus-ratgeber.netlify.app/cfd-bonus-bedingungen-umsatz)
+- [CFD Broker Bonus auszahlen lassen](https://cfd-bonus-ratgeber.netlify.app/cfd-broker-bonus-auszahlen-lassen)
+- [Für wen eignet sich ein CFD Broker Bonus?](https://cfd-bonus-ratgeber.netlify.app/cfd-broker-bonus-einsteiger-erfahrene)
+- [Seriösen CFD Broker Bonus erkennen](https://cfd-bonus-ratgeber.netlify.app/serioesen-cfd-broker-bonus-erkennen)
+
+## Wichtiger Hinweis
+
+74–89 % der Kleinanlegerkonten verlieren Geld beim CFD-Handel mit Hebel.
+Alle Inhalte dienen ausschließlich zu Informationszwecken und stellen keine Anlageberatung dar.
